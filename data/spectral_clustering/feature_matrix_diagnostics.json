@@ -1,0 +1,14 @@
+{
+  "algebraic_connectivity": 0.21802803684867691,
+  "avg_clustering": 0.6696811179998053,
+  "degree_max": 95,
+  "degree_mean": 29.229813664596275,
+  "degree_median": 26.0,
+  "degree_min": 22,
+  "density": 0.045458497145561855,
+  "largest_component_frac": 1.0,
+  "n_components": 1,
+  "n_edges": 9412,
+  "n_isolates": 0,
+  "n_nodes": 644
+}
