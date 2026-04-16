@@ -7,3 +7,19 @@
 [![Orcid: Jakob](https://img.shields.io/badge/Jakob-bar?style=flat&logo=orcid&labelColor=white&color=grey)](https://orcid.org/0000-0002-2841-7284)
 
 Analysis notebooks and scripts for the 2026 Hasuer Group retreat. Covers scikit-learn models that needs some love
+
+## Getting started
+
+Clone the repo, then install dependencies:
+
+### with uv (recommended)
+
+```bash
+uv sync
+```
+
+### with pip
+
+```bash
+pip install -e .
+```
