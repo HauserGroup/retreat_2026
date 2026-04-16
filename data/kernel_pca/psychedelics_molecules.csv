@@ -1,0 +1,253 @@
+﻿Name,Category,Canonical SMILES,Isomeric SMILES,IUPAC
+Quipazine,Piperazine,C1CN(CCN1)C2=NC3=CC=CC=C3C=C2,C1CN(CCN1)C2=NC3=CC=CC=C3C=C2,2-piperazin-1-ylquinoline
+MK212,Piperazine,C1CN(CCN1)C2=CN=CC(=N2)Cl,C1CN(CCN1)C2=CN=CC(=N2)Cl,2-chloro-6-piperazin-1-ylpyrazine
+"N,N-Dimethyltryptamine",Tryptamine,CN(C)CCC1=CNC2=CC=CC=C21,CN(C)CCC1=CNC2=CC=CC=C21,"2-(1H-indol-3-yl)-N,N-dimethylethanamine"
+Psilocin,Tryptamine,CN(C)CCC1=CNC2=C1C(=CC=C2)O,CN(C)CCC1=CNC2=C1C(=CC=C2)O,3-[2-(dimethylamino)ethyl]-1H-indol-4-ol
+Psilocybin,Tryptamine,CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] dihydrogen phosphate
+25B-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Br)OC,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Br)OC,"2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+Bromocriptine,Lysergamide,CC(C)CC1C(=O)N2CCCC2C3(N1C(=O)C(O3)(C(C)C)NC(=O)C4CN(C5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O,CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@H]4CN([C@@H]5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O,"(6aR,9R)-5-bromo-N-[(1S,2S,4R,7S)-2-hydroxy-7-(2-methylpropyl)-5,8-dioxo-4-propan-2-yl-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Ergotamine,Lysergamide,CC1(C(=O)N2C(C(=O)N3CCCC3C2(O1)O)CC4=CC=CC=C4)NC(=O)C5CN(C6CC7=CNC8=CC=CC(=C78)C6=C5)C,C[C@@]1(C(=O)N2[C@H](C(=O)N3CCC[C@H]3[C@@]2(O1)O)CC4=CC=CC=C4)NC(=O)[C@H]5CN([C@@H]6CC7=CNC8=CC=CC(=C78)C6=C5)C,"(6aR,9R)-N-[(1S,2S,4R,7S)-7-benzyl-2-hydroxy-4-methyl-5,8-dioxo-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Lisuride,Lysergamide,CCN(CC)C(=O)NC1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CCN(CC)C(=O)N[C@@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,"3-[(6aR,9S)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-1,1-diethylurea"
+5HTP,Tryptamine,C1=CC2=C(C=C1O)C(=CN2)CC(C(=O)O)N,C1=CC2=C(C=C1O)C(=CN2)C[C@@H](C(=O)O)N,(2S)-2-amino-3-(5-hydroxy-1H-indol-3-yl)propanoic acid
+"5-methoxy-N,N-dimethyltryptamine",Tryptamine,CN(C)CCC1=CNC2=C1C=C(C=C2)OC,CN(C)CCC1=CNC2=C1C=C(C=C2)OC,"2-(5-methoxy-1H-indol-3-yl)-N,N-dimethylethanamine"
+Dopamine,Phenethylamine,C1=CC(=C(C=C1CCN)O)O,C1=CC(=C(C=C1CCN)O)O,"4-(2-aminoethyl)benzene-1,2-diol"
+Apomorphine,Lysergamide,CN1CCC2=C3C1CC4=C(C3=CC=C2)C(=C(C=C4)O)O,CN1CCC2=C3[C@H]1CC4=C(C3=CC=C2)C(=C(C=C4)O)O,"(6aR)-6-methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline-10,11-diol"
+Epinephrine,Phenethylamine,CNCC(C1=CC(=C(C=C1)O)O)O,CNC[C@@H](C1=CC(=C(C=C1)O)O)O,"4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol"
+MDMA,Phenethylamine,CC(CC1=CC2=C(C=C1)OCO2)NC,CC(CC1=CC2=C(C=C1)OCO2)NC,"1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine"
+"3,4-Methylenedioxyamphetamine",Phenethylamine,CC(CC1=CC2=C(C=C1)OCO2)N,CC(CC1=CC2=C(C=C1)OCO2)N,"1-(1,3-benzodioxol-5-yl)propan-2-amine"
+25C-NBOH,Phenethylamine,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2O)OC)Cl,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2O)OC)Cl,"2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol"
+LSD,Lysergamide,CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,"(6aR,9R)-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Quinpirole,Unknown,CCCN1CCCC2C1CC3=C(C2)NN=C3,CCCN1CCC[C@H]2[C@H]1CC3=C(C2)NN=C3,"(4aR,8aR)-5-propyl-1,4,4a,6,7,8,8a,9-octahydropyrazolo[3,4-g]quinoline"
+"2-(2,5-Dimethoxy-4-methylphenyl)cyclopropylamine",Unknown,CC1=CC(=C(C=C1OC)C2CC2N)OC,CC1=CC(=C(C=C1OC)C2CC2N)OC,"2-(2,5-dimethoxy-4-methylphenyl)cyclopropan-1-amine"
+Escaline,Phenethylamine,CCOC1=C(C=C(C=C1OC)CCN)OC,CCOC1=C(C=C(C=C1OC)CCN)OC,"2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine"
+Methallylescaline,Phenethylamine,CC(=C)COC1=C(C=C(C=C1OC)CCN)OC,CC(=C)COC1=C(C=C(C=C1OC)CCN)OC,"2-[3,5-dimethoxy-4-(2-methylprop-2-enoxy)phenyl]ethanamine"
+BL-3912A,Phenethylamine,CCC(CC1=C(C=C(C(=C1)OC)C)OC)N.Cl,CC[C@H](CC1=C(C=C(C(=C1)OC)C)OC)N.Cl,"(2R)-1-(2,5-dimethoxy-4-methylphenyl)butan-2-amine;hydrochloride"
+"2,5-dimethoxy-4-methylthioamphetamine",Phenethylamine,CC(CC1=CC(=C(C=C1OC)SC)OC)N,CC(CC1=CC(=C(C=C1OC)SC)OC)N,"1-(2,5-dimethoxy-4-methylsulfanylphenyl)propan-2-amine"
+5-MAPDB,Phenethylamine,CC(CC1=CC2=C(C=C1)OCC2)NC,CC(CC1=CC2=C(C=C1)OCC2)NC,"1-(2,3-dihydro-1-benzofuran-5-yl)-N-methylpropan-2-amine"
+CPM,Unknown,CCN(CC)C1=CC2=C(C=C1)C(=C(C(=O)O2)C3=CC=C(C=C3)N4C(=O)C=CC4=O)C,CCN(CC)C1=CC2=C(C=C1)C(=C(C(=O)O2)C3=CC=C(C=C3)N4C(=O)C=CC4=O)C,"1-[4-[7-(diethylamino)-4-methyl-2-oxochromen-3-yl]phenyl]pyrrole-2,5-dione"
+DOI,Phenethylamine,CC(CC1=CC(=C(C=C1OC)I)OC)N,CC(CC1=CC(=C(C=C1OC)I)OC)N,"1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine"
+5-MeO-DALT,Tryptamine,COC1=CC2=C(C=C1)NC=C2CCN(CC=C)CC=C,COC1=CC2=C(C=C1)NC=C2CCN(CC=C)CC=C,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-prop-2-enylprop-2-en-1-amine
+LAMPA,Lysergamide,CCCN(C)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CCCN(C)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,"(6aR,9R)-N,7-dimethyl-N-propyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+5-Hydroxytryptamine,Tryptamine,C1=CC2=C(C=C1O)C(=CN2)CCN,C1=CC2=C(C=C1O)C(=CN2)CCN,3-(2-aminoethyl)-1H-indol-5-ol
+DAM-57,Lysergamide,CN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N(C)C,CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(C)C,"(6aR,9R)-N,N,7-trimethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+"4-Allyloxy-3,5-dimethoxyphenethylamine",Phenethylamine,COC1=CC(=CC(=C1OC=C)OC)CCN,COC1=CC(=CC(=C1OC=C)OC)CCN,"2-(4-ethenoxy-3,5-dimethoxyphenyl)ethanamine"
+5-hydroxytryptamin ,Tryptamine,C1=CC2=C(C=C1O)C(=CN2)CCN,C1=CC2=C(C=C1O)C(=CN2)CCN,3-(2-aminoethyl)-1H-indol-5-ol
+Lorcaserin,Unknown,CC1CNCCC2=C1C=C(C=C2)Cl,C[C@H]1CNCCC2=C1C=C(C=C2)Cl,"(5R)-7-chloro-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine"
+Pimavanserin,Unknown,CC(C)COC1=CC=C(C=C1)CNC(=O)N(CC2=CC=C(C=C2)F)C3CCN(CC3)C,CC(C)COC1=CC=C(C=C1)CNC(=O)N(CC2=CC=C(C=C2)F)C3CCN(CC3)C,1-[(4-fluorophenyl)methyl]-1-(1-methylpiperidin-4-yl)-3-[[4-(2-methylpropoxy)phenyl]methyl]urea
+AET,Tryptamine,C(CSC(=N)N)N.Br.Br,C(CSC(=N)N)N.Br.Br,2-aminoethyl carbamimidothioate;dihydrobromide
+BROMO-DRAGONFLY,Phenethylamine,CC(CC1=C2C=COC2=C(C3=C1OC=C3)Br)N,C[C@H](CC1=C2C=COC2=C(C3=C1OC=C3)Br)N,"(2R)-1-(4-bromofuro[2,3-f][1]benzofuran-8-yl)propan-2-amine"
+BUFOTENIN,Tryptamine,CN(C)CCC1=CNC2=C1C=C(C=C2)O,CN(C)CCC1=CNC2=C1C=C(C=C2)O,3-[2-(dimethylamino)ethyl]-1H-indol-5-ol
+DIPT,Tryptamine,CC(C)N(CCC1=CNC2=CC=CC=C21)C(C)C,CC(C)N(CCC1=CNC2=CC=CC=C21)C(C)C,N-[2-(1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine
+DOB,Phenethylamine,CC(CC1=CC(=C(C=C1OC)Br)OC)N,CC(CC1=CC(=C(C=C1OC)Br)OC)N,"1-(4-bromo-2,5-dimethoxyphenyl)propan-2-amine"
+DOC,Phenethylamine,CC12CCC3C(C1CCC2C(=O)CO)CCC4=CC(=O)CCC34C,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)CO)CCC4=CC(=O)CC[C@]34C,"(8S,9S,10R,13S,14S,17S)-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one"
+DOM,Phenethylamine,CC1=CC(=C(C=C1OC)CC(C)N)OC,CC1=CC(=C(C=C1OC)CC(C)N)OC,"1-(2,5-dimethoxy-4-methylphenyl)propan-2-amine"
+IBOGAINE,Unknown,CCC1CC2CC3C1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC,CC[C@H]1C[C@@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC,"(1R,15R,17S,18S)-17-ethyl-7-methoxy-3,13-diazapentacyclo[13.3.1.02,10.04,9.013,18]nonadeca-2(10),4(9),5,7-tetraene"
+LSA,Unknown,C1=CC=C2C(=C1)C(=O)NS2(=O)=O,C1=CC=C2C(=C1)C(=O)NS2(=O)=O,"1,1-dioxo-1,2-benzothiazol-3-one"
+MBDB,Amphetamine,CCC(CC1=CC2=C(C=C1)OCO2)NC,CCC(CC1=CC2=C(C=C1)OCO2)NC,"1-(1,3-benzodioxol-5-yl)-N-methylbutan-2-amine"
+MESCALINE,Phenethylamine,COC1=CC(=CC(=C1OC)OC)CCN,COC1=CC(=CC(=C1OC)OC)CCN,"2-(3,4,5-trimethoxyphenyl)ethanamine"
+MET,Tryptamine,CSCCC(C(=O)O)N,CSCC[C@@H](C(=O)O)N,(2S)-2-amino-4-methylsulfanylbutanoic acid
+MIPT,Tryptamine,CC(C)N(C)CCC1=CNC2=CC=CC=C21,CC(C)N(C)CCC1=CNC2=CC=CC=C21,N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine
+2C-B,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)Br,COC1=CC(=C(C=C1CCN)OC)Br,"2-(4-bromo-2,5-dimethoxyphenyl)ethanamine"
+2C-B-FLY,Phenethylamine,C1COC2=C(C3=C(C(=C21)CCN)OCC3)Br,C1COC2=C(C3=C(C(=C21)CCN)OCC3)Br,"2-(4-bromo-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-yl)ethanamine"
+2C-C,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)Cl,COC1=CC(=C(C=C1CCN)OC)Cl,"2-(4-chloro-2,5-dimethoxyphenyl)ethanamine"
+2C-D,Phenethylamine,CC1=CC(=C(C=C1OC)CCN)OC,CC1=CC(=C(C=C1OC)CCN)OC,"2-(2,5-dimethoxy-4-methylphenyl)ethanamine"
+2C-E,Phenethylamine,CCC1=CC(=C(C=C1OC)CCN)OC,CCC1=CC(=C(C=C1OC)CCN)OC,"2-(4-ethyl-2,5-dimethoxyphenyl)ethanamine"
+2C-I,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)I,COC1=CC(=C(C=C1CCN)OC)I,"2-(4-iodo-2,5-dimethoxyphenyl)ethanamine"
+2C-P,Phenethylamine,CCCC1=CC(=C(C=C1OC)CCN)OC,CCCC1=CC(=C(C=C1OC)CCN)OC,"2-(2,5-dimethoxy-4-propylphenyl)ethanamine"
+2C-T-2,Phenethylamine,CCSC1=C(C=C(C(=C1)OC)CCN)OC,CCSC1=C(C=C(C(=C1)OC)CCN)OC,"2-(4-ethylsulfanyl-2,5-dimethoxyphenyl)ethanamine"
+2C-T-4,Phenethylamine,CC(C)SC1=C(C=C(C(=C1)OC)CCN)OC,CC(C)SC1=C(C=C(C(=C1)OC)CCN)OC,"2-(2,5-dimethoxy-4-propan-2-ylsulfanylphenyl)ethanamine"
+2C-T-7,Phenethylamine,CCCSC1=C(C=C(C(=C1)OC)CCN)OC,CCCSC1=C(C=C(C(=C1)OC)CCN)OC,"2-(2,5-dimethoxy-4-propylsulfanylphenyl)ethanamine"
+2C-T-21,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)SCCF,COC1=CC(=C(C=C1CCN)OC)SCCF,"2-[4-(2-fluoroethylsulfanyl)-2,5-dimethoxyphenyl]ethanamine"
+4-ACETOXY-DET,Tryptamine,CCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,CCN(CC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,[3-[2-(diethylamino)ethyl]-1H-indol-4-yl] acetate
+4-ACETOXY-DIPT,Tryptamine,CC(C)N(CCC1=CNC2=C1C(=CC=C2)OC(=O)C)C(C)C,CC(C)N(CCC1=CNC2=C1C(=CC=C2)OC(=O)C)C(C)C,[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate
+4-ACETOXY-DMT,Tryptamine,CC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C,CC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C,[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] acetate
+4-ACETOXY-MIPT,Tryptamine,CC(C)N(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,CC(C)N(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,[3-[2-[methyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate
+"4-hydroxy-N,N-diisopropyltryptamine",Tryptamine,CC(C)N(CCC1=CNC2=C1C(=CC=C2)O)C(C)C,CC(C)N(CCC1=CNC2=C1C(=CC=C2)O)C(C)C,3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol
+4-Hydroxy-N-methyl-N-isopropyltryptamine,Tryptamine,CC(C)N(C)CCC1=CNC2=C1C(=CC=C2)O,CC(C)N(C)CCC1=CNC2=C1C(=CC=C2)O,3-[2-[methyl(propan-2-yl)amino]ethyl]-1H-indol-4-ol
+4-MeO-PCP,Dissociative,COC1=CC=C(C=C1)C2(CCCCC2)N3CCCCC3,COC1=CC=C(C=C1)C2(CCCCC2)N3CCCCC3,1-[1-(4-methoxyphenyl)cyclohexyl]piperidine
+5-MeO-AMT,Tryptamine,CC(CC1=CNC2=C1C=C(C=C2)OC)N,CC(CC1=CNC2=C1C=C(C=C2)OC)N,1-(5-methoxy-1H-indol-3-yl)propan-2-amine
+5-MeO-DIPT,Tryptamine,CC(C)N(CCC1=CNC2=C1C=C(C=C2)OC)C(C)C,CC(C)N(CCC1=CNC2=C1C=C(C=C2)OC)C(C)C,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propan-2-ylpropan-2-amine
+5-MeO-MIPT,Tryptamine,CC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC,CC(C)N(C)CCC1=CNC2=C1C=C(C=C2)OC,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-methylpropan-2-amine
+BZ,Anti-cholinergic,C1CN2CCC1C(C2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O,C1CN2CCC1C(C2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O,"1-azabicyclo[2.2.2]octan-3-yl 2-hydroxy-2,2-diphenylacetate"
+METHOXETAMINE,Dissociative,CCNC1(CCCCC1=O)C2=CC(=CC=C2)OC,CCNC1(CCCCC1=O)C2=CC(=CC=C2)OC,2-(ethylamino)-2-(3-methoxyphenyl)cyclohexan-1-one
+SALVINORIN B ETHOXYMETHYL ETHER,Dissociative,CCOCOC1CC(C2(CCC3C(=O)OC(CC3(C2C1=O)C)C4=COC=C4)C)C(=O)OC,CCOCO[C@H]1C[C@H]([C@@]2(CC[C@H]3C(=O)O[C@@H](C[C@@]3([C@H]2C1=O)C)C4=COC=C4)C)C(=O)OC,"methyl (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(ethoxymethoxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxo-2,4a,5,6,7,8,9,10a-octahydro-1H-benzo[f]isochromene-7-carboxylate"
+Baeocystin,Tryptamine,CNCCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,CNCCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,[3-[2-(methylamino)ethyl]-1H-indol-4-yl] dihydrogen phosphate
+Aeruginascin,Tryptamine,C[N+](C)(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)[O-],C[N+](C)(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)[O-],[3-[2-(trimethylazaniumyl)ethyl]-1H-indol-4-yl] hydrogen phosphate
+5-Bromo-DMT,Tryptamine,CN(C)CCC1=CNC2=C1C=C(C=C2)Br,CN(C)CCC1=CNC2=C1C=C(C=C2)Br,"2-(5-bromo-1H-indol-3-yl)-N,N-dimethylethanamine"
+N-Methyl-N-ethyltryptamine,Tryptamine,CCN(C)CCC1=CNC2=CC=CC=C21,CCN(C)CCC1=CNC2=CC=CC=C21,N-ethyl-2-(1H-indol-3-yl)-N-methylethanamine
+"N,N-Diethyltryptamine",Tryptamine,CCN(CC)CCC1=CNC2=CC=CC=C21,CCN(CC)CCC1=CNC2=CC=CC=C21,"N,N-diethyl-2-(1H-indol-3-yl)ethanamine"
+N-Ethyl-N-isopropyltryptamine,Tryptamine,CCN(CCC1=CNC2=CC=CC=C21)C(C)C,CCN(CCC1=CNC2=CC=CC=C21)C(C)C,N-ethyl-N-[2-(1H-indol-3-yl)ethyl]propan-2-amine
+"N,N-Dipropyltryptamine",Tryptamine,CCCN(CCC)CCC1=CNC2=CC=CC=C21,CCCN(CCC)CCC1=CNC2=CC=CC=C21,N-[2-(1H-indol-3-yl)ethyl]-N-propylpropan-1-amine
+"N,N-Diallyltryptamine",Tryptamine,C=CCN(CCC1=CNC2=CC=CC=C21)CC=C,C=CCN(CCC1=CNC2=CC=CC=C21)CC=C,N-[2-(1H-indol-3-yl)ethyl]-N-prop-2-enylprop-2-en-1-amine
+"N,N-Dibutyltryptamine",Tryptamine,CCCCN(CCCC)CCC1=CNC2=CC=CC=C21,CCCCN(CCCC)CCC1=CNC2=CC=CC=C21,N-butyl-N-[2-(1H-indol-3-yl)ethyl]butan-1-amine
+N-Ethyltryptamine,Tryptamine,CCNCCC1=CNC2=CC=CC=C21,CCNCCC1=CNC2=CC=CC=C21,N-ethyl-2-(1H-indol-3-yl)ethanamine
+N-Methyltryptamine,Tryptamine,CNCCC1=CNC2=CC=CC=C21,CNCCC1=CNC2=CC=CC=C21,2-(1H-indol-3-yl)-N-methylethanamine
+Ethocybin,Tryptamine,CCN(CC)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,CCN(CC)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O,[3-[2-(diethylamino)ethyl]-1H-indol-4-yl] dihydrogen phosphate
+4-HO-MET,Tryptamine,CCN(C)CCC1=CNC2=C1C(=CC=C2)O,CCN(C)CCC1=CNC2=C1C(=CC=C2)O,3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-ol
+4-HO-DET,Tryptamine,CCN(CC)CCC1=CNC2=C1C(=CC=C2)O,CCN(CC)CCC1=CNC2=C1C(=CC=C2)O,3-[2-(diethylamino)ethyl]-1H-indol-4-ol
+4-HO-MPT,Tryptamine,CCCN(C)CCC1=CNC2=C1C(=CC=C2)O,CCCN(C)CCC1=CNC2=C1C(=CC=C2)O,3-[2-[methyl(propyl)amino]ethyl]-1H-indol-4-ol
+4-HO-DPT,Tryptamine,CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)O,CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)O,3-[2-(dipropylamino)ethyl]-1H-indol-4-ol
+4-HO-DBT,Tryptamine,CCCCN(CCCC)CCC1=CNC2=CC=CC(=O)C21,CCCCN(CCCC)CCC1=CNC2=CC=CC(=O)C21,"3-[2-(dibutylamino)ethyl]-1,3a-dihydroindol-4-one"
+4-HO-DSBT,Tryptamine,CCC(C)N(CCC1=CNC2=C1C(=CC=C2)O)C(C)CC,CCC(C)N(CCC1=CNC2=C1C(=CC=C2)O)C(C)CC,3-[2-[di(butan-2-yl)amino]ethyl]-1H-indol-4-ol
+4-HO-MPMI,Tryptamine,CN1CCCC1CC2=CNC3=C2C(=CC=C3)O,CN1CCC[C@@H]1CC2=CNC3=C2C(=CC=C3)O,3-[[(2R)-1-methylpyrrolidin-2-yl]methyl]-1H-indol-4-ol
+4-AcO-MET,Tryptamine,CCN(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,CCN(C)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate
+4-AcO-DPT,Tryptamine,CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,CCCN(CCC)CCC1=CNC2=C1C(=CC=C2)OC(=O)C,[3-[2-(dipropylamino)ethyl]-1H-indol-4-yl] acetate
+4-AcO-DALT,Tryptamine,CC(=O)OC1=CC=CC2=C1C(=CN2)CCN(CC=C)CC=C,CC(=O)OC1=CC=CC2=C1C(=CN2)CCN(CC=C)CC=C,[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate
+4-MeO-MiPT,Tryptamine,CC(C)N(C)CCC1=CNC2=C1C(=CC=C2)OC,CC(C)N(C)CCC1=CNC2=C1C(=CC=C2)OC,N-[2-(4-methoxy-1H-indol-3-yl)ethyl]-N-methylpropan-2-amine
+5-MeO-NMT,Tryptamine,CNCCC1=CN=C2C1C=C(C=C2)OC,CNCCC1=CN=C2C1C=C(C=C2)OC,2-(5-methoxy-3aH-indol-3-yl)-N-methylethanamine
+5-MeO-DET,Tryptamine,CCN(CC)CCC1=CNC2=C1C=C(C=C2)OC,CCN(CC)CCC1=CNC2=C1C=C(C=C2)OC,"N,N-diethyl-2-(5-methoxy-1H-indol-3-yl)ethanamine"
+5-MeO-DPT,Tryptamine,CCCN(CCC)CCC1=CNC2=C1C=C(C=C2)OC,CCCN(CCC)CCC1=CNC2=C1C=C(C=C2)OC,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine
+5-MeO-MPMI,Tryptamine,CN1CCCC1CC2=CNC3=C2C=C(C=C3)OC,CN1CCC[C@@H]1CC2=CNC3=C2C=C(C=C3)OC,5-methoxy-3-[[(2R)-1-methylpyrrolidin-2-yl]methyl]-1H-indole
+5-MeS-DMT,Tryptamine,CN(C)CCC1=CNC2=C1C=C(C=C2)SC,CN(C)CCC1=CNC2=C1C=C(C=C2)SC,"N,N-dimethyl-2-(5-methylsulfanyl-1H-indol-3-yl)ethanamine"
+5-HO-DiPT,Tryptamine,CC(C)N(CCC1=CNC2=C1C=C(C=C2)O)C(C)C,CC(C)N(CCC1=CNC2=C1C=C(C=C2)O)C(C)C,3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-5-ol
+2-Me-DET,Tryptamine,CCN(CC)CCC1=C(NC2=CC=CC=C21)C,CCN(CC)CCC1=C(NC2=CC=CC=C21)C,"N,N-diethyl-2-(2-methyl-1H-indol-3-yl)ethanamine"
+"4,5-MDO-DMT",Tryptamine,CN(C)CCC1=CNC2=C1C3=C(C=C2)OCO3,CN(C)CCC1=CNC2=C1C3=C(C=C2)OCO3,"2-(6H-[1,3]dioxolo[4,5-e]indol-8-yl)-N,N-dimethylethanamine"
+6-Fluoro-DMT,Tryptamine,CN(C)CCC1=CNC2=C1C=C(C=C2)F,CN(C)CCC1=CNC2=C1C=C(C=C2)F,"2-(5-fluoro-1H-indol-3-yl)-N,N-dimethylethanamine"
+"N,N-Tetramethylenetryptamine",Tryptamine,C1CCN(C1)CCC2=CNC3=CC=CC=C32,C1CCN(C1)CCC2=CNC3=CC=CC=C32,3-(2-pyrrolidin-1-ylethyl)-1H-indole
+4-HO-pyr-T,Tryptamine,C1CCN(C1)CCC2=CNC3=C2C(=CC=C3)O,C1CCN(C1)CCC2=CNC3=C2C(=CC=C3)O,3-(2-pyrrolidin-1-ylethyl)-1H-indol-4-ol
+5-MeO-pyr-T,Tryptamine,COC1=CC2=C(C=C1)NC=C2CCN3CCCC3,COC1=CC2=C(C=C1)NC=C2CCN3CCCC3,5-methoxy-3-(2-pyrrolidin-1-ylethyl)-1H-indole
+RU-28306,Tryptamine,CN(C)C1CC2=C3C(=CNC3=CC=C2)C1,CN(C)C1CC2=C3C(=CNC3=CC=C2)C1,"N,N-dimethyl-1,3,4,5-tetrahydrobenzo[cd]indol-4-amine"
+O-4310,Tryptamine,CC(C)N1C=C(C2=C1C=C(C=C2O)F)CCN(C)C,CC(C)N1C=C(C2=C1C=C(C=C2O)F)CCN(C)C,3-[2-(dimethylamino)ethyl]-6-fluoro-1-propan-2-ylindol-4-ol
+Dimemebfe,Unknown,CN(C)CCC1=COC2=C1C=C(C=C2)OC,CN(C)CCC1=COC2=C1C=C(C=C2)OC,"2-(5-methoxy-1-benzofuran-3-yl)-N,N-dimethylethanamine"
+Voacangine,Unknown,CCC1CC2CC3(C1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC,CC[C@H]1C[C@H]2C[C@@]3([C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC)C(=O)OC,"methyl (1S,15S,17S,18S)-17-ethyl-7-methoxy-3,13-diazapentacyclo[13.3.1.02,10.04,9.013,18]nonadeca-2(10),4(9),5,7-tetraene-1-carboxylate"
+Lysergic acid amide,Lysergamide,CN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N,CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N,"(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+N1-Methyl-lysergic acid diethylamide,Lysergamide,CCN(CC)C(=O)C1CN(C2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C,CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C,"(6aR,9R)-N,N-diethyl-4,7-dimethyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide"
+1-Propionyl-lysergic acid diethylamide,Lysergamide,CCC(=O)N1C=C2CC3C(=CC(CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4,CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4,"(6aR,9R)-N,N-diethyl-7-methyl-4-propanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide"
+6-Allyl-6-nor-lysergic acid diethylamide,Lysergamide,CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)CC=C,CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)CC=C,"(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+6-Ethyl-6-nor-lysergic acid diethylamide,Lysergamide,CCN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N(CC)CC,CCN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(CC)CC,"(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+6-Propyl-6-nor-lysergic acid diethylamide,Lysergamide,CCCN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N(CC)CC,CCCN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N(CC)CC,"(6aR,9R)-N,N-diethyl-7-propyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Lysergic acid ethylamide,Lysergamide,CCNC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CCNC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,"(6aR,9R)-N-ethyl-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Lysergic acid 2-butyl amide,Lysergamide,CCC(C)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CC[C@@H](C)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,"(6aR,9R)-N-[(2R)-butan-2-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Lysergic acid 3-pentyl amide,Lysergamide,CCC(CC)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CCC(CC)NC(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C,"(6aR,9R)-7-methyl-N-pentan-3-yl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+Lysergic acid methyl ester,Lysergamide,CN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)OC,CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)OC,"methyl (6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxylate"
+"Lysergic acid 2,4-dimethylazetidide",Lysergamide,CC1CC(N1C(=O)C2CN(C3CC4=CNC5=CC=CC(=C45)C3=C2)C)C,C[C@H]1C[C@@H](N1C(=O)[C@H]2CN([C@@H]3CC4=CNC5=CC=CC(=C45)C3=C2)C)C,"[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-[(2S,4S)-2,4-dimethylazetidin-1-yl]methanone"
+Methylisopropyllysergamide,Lysergamide,CC(C)N(C)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,CC(C)N(C)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,"N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+N-Morpholinyllysergamide,Lysergamide,CN1CC(C=C2C1CC3=CNC4=CC=CC2=C34)C(=O)N5CCOCC5,CN1C[C@@H](C=C2[C@H]1CC3=CNC4=CC=CC2=C34)C(=O)N5CCOCC5,"[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-morpholin-4-ylmethanone"
+Lophophine,Phenethylamine,COC1=CC(=CC2=C1OCO2)CCN,COC1=CC(=CC2=C1OCO2)CCN,"2-(7-methoxy-1,3-benzodioxol-5-yl)ethanamine"
+Isomescaline,Phenethylamine,COC1=C(C(=C(C=C1)CCN)OC)OC,COC1=C(C(=C(C=C1)CCN)OC)OC,"2-(2,3,4-trimethoxyphenyl)ethanamine"
+Cyclopropylmescaline,Phenethylamine,COC1=CC(=CC(=C1OCC2CC2)OC)CCN,COC1=CC(=CC(=C1OCC2CC2)OC)CCN,"2-[4-(cyclopropylmethoxy)-3,5-dimethoxyphenyl]ethanamine"
+Jimscaline,Phenethylamine,COC1=C(C(=C2CCC(C2=C1)CN)OC)OC,COC1=C(C(=C2CC[C@H](C2=C1)CN)OC)OC,"[(1R)-4,5,6-trimethoxy-2,3-dihydro-1H-inden-1-yl]methanamine"
+Metaescaline,Phenethylamine,CCOC1=CC(=CC(=C1OC)OC)CCN,CCOC1=CC(=CC(=C1OC)OC)CCN,"2-(3-ethoxy-4,5-dimethoxyphenyl)ethanamine"
+Trisescaline,Phenethylamine,CCOC1=CC(=CC(=C1OCC)OCC)CCN,CCOC1=CC(=CC(=C1OCC)OCC)CCN,"2-(3,4,5-triethoxyphenyl)ethanamine"
+Symbescaline,Phenethylamine,CCOC1=CC(=CC(=C1OC)OCC)CCN,CCOC1=CC(=CC(=C1OC)OCC)CCN,"2-(3,5-diethoxy-4-methoxyphenyl)ethanamine"
+Asymbescaline,Phenethylamine,CCOC1=CC(=CC(=C1OCC)OC)CCN,CCOC1=CC(=CC(=C1OCC)OC)CCN,"2-(3,4-diethoxy-5-methoxyphenyl)ethanamine"
+Phenescaline,Phenethylamine,COC1=CC(=CC(=C1OCCC2=CC=CC=C2)OC)CCN,COC1=CC(=CC(=C1OCCC2=CC=CC=C2)OC)CCN,"2-[3,5-dimethoxy-4-(2-phenylethoxy)phenyl]ethanamine"
+Allylescaline,Phenethylamine,COC1=CC(=CC(=C1OCC=C)OC)CCN,COC1=CC(=CC(=C1OCC=C)OC)CCN,"2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine"
+Proscaline,Phenethylamine,CCCOC1=C(C=C(C=C1OC)CCN)OC,CCCOC1=C(C=C(C=C1OC)CCN)OC,"2-(3,5-dimethoxy-4-propoxyphenyl)ethanamine"
+Isoproscaline,Phenethylamine,CC(C)OC1=C(C=C(C=C1OC)CCN)OC,CC(C)OC1=C(C=C(C=C1OC)CCN)OC,"2-(3,5-dimethoxy-4-propan-2-yloxyphenyl)ethanamine"
+Metaproscaline,Phenethylamine,CCCOC1=CC(=CC(=C1OC)OC)CCN,CCCOC1=CC(=CC(=C1OC)OC)CCN,"2-(3,4-dimethoxy-5-propoxyphenyl)ethanamine"
+Thioproscaline,Phenethylamine,CCCSC1=C(C=C(C=C1OC)CCN)OC,CCCSC1=C(C=C(C=C1OC)CCN)OC,"2-(3,5-dimethoxy-4-propylsulfanylphenyl)ethanamine"
+Buscaline,Phenethylamine,CCCCOC1=C(C=C(C=C1OC)CCN)OC,CCCCOC1=C(C=C(C=C1OC)CCN)OC,"2-(4-butoxy-3,5-dimethoxyphenyl)ethanamine"
+Thiobuscaline,Phenethylamine,CCCCSC1=C(C=C(C=C1OC)CCN)OC,CCCCSC1=C(C=C(C=C1OC)CCN)OC,"2-(4-butylsulfanyl-3,5-dimethoxyphenyl)ethanamine"
+Ariadne,Phenethylamine,CCC(CC1=C(C=C(C(=C1)OC)C)OC)N,CCC(CC1=C(C=C(C(=C1)OC)C)OC)N,"1-(2,5-dimethoxy-4-methylphenyl)butan-2-amine"
+Macromerine,Phenethylamine,CN(C)CC(C1=CC(=C(C=C1)OC)OC)O,CN(C)CC(C1=CC(=C(C=C1)OC)OC)O,"1-(3,4-dimethoxyphenyl)-2-(dimethylamino)ethanol"
+TOM,Phenethylamine,COC1=CC=CC=C1C(=CC(=O)C(=O)O)S,COC1=CC=CC=C1/C(=C\C(=O)C(=O)O)/S,(E)-4-(2-methoxyphenyl)-2-oxo-4-sulfanylbut-3-enoic acid
+Bis-TOM,Phenethylamine,CC1=CC(=C(C=C1SC)CC(C)N)SC,CC1=CC(=C(C=C1SC)CC(C)N)SC,"1-[4-methyl-2,5-bis(methylsulfanyl)phenyl]propan-2-amine"
+TOMSO,Phenethylamine,CC1=CC(=C(C=C1S(=O)C)CC(C)N)OC,CC1=CC(=C(C=C1S(=O)C)CC(C)N)OC,1-(2-methoxy-4-methyl-5-methylsulfinylphenyl)propan-2-amine
+BOH,Phenethylamine,C(CO)NN,C(CO)NN,2-hydrazinylethanol
+4-D,Phenethylamine,CC(CC1=CC(=C(C(=C1)OC)OC)OC)N,[2H]C([2H])([2H])OC1=C(C=C(C=C1OC)CC(C)N)OC,"1-[3,5-dimethoxy-4-(trideuteriomethoxy)phenyl]propan-2-amine"
+F-22,Phenethylamine,CC(CC1=C(C=C2CC(OC2=C1)(C)C)OC)N,CC(CC1=C(C=C2CC(OC2=C1)(C)C)OC)N,"1-(5-methoxy-2,2-dimethyl-3H-1-benzofuran-6-yl)propan-2-amine"
+FLEA,Phenethylamine,CC(CC1=CC2=C(C=C1)OCO2)N(C)O,CC(CC1=CC2=C(C=C1)OCO2)N(C)O,"N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamine"
+MDPH,Phenethylamine,CCCCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3,CCCCC(C(=O)C1=CC2=C(C=C1)OCO2)N3CCCC3,"1-(1,3-benzodioxol-5-yl)-2-pyrrolidin-1-ylhexan-1-one"
+MDMP,Phenethylamine,CC1=CC(=C(C(=C1)[N+](=O)[O-])NC(C)C(=O)NC)[N+](=O)[O-],CC1=CC(=C(C(=C1)[N+](=O)[O-])NC(C)C(=O)NC)[N+](=O)[O-],"N-methyl-2-(4-methyl-2,6-dinitroanilino)propanamide"
+Propynyl,Phenethylamine,COC1=CC(=CC(=C1OCC#C)OC)CCN,COC1=CC(=CC(=C1OCC#C)OC)CCN,"2-(3,5-dimethoxy-4-prop-2-ynoxyphenyl)ethanamine"
+2C-B-BUTTERFLY,Phenethylamine,C1CC2=C(C3=C(CCCO3)C(=C2OC1)Br)CCN,C1CC2=C(C3=C(CCCO3)C(=C2OC1)Br)CCN,"2-(5-bromo-2,3,4,7,8,9-hexahydropyrano[2,3-g]chromen-10-yl)ethanamine"
+2C-EF,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)CCF,COC1=CC(=C(C=C1CCN)OC)CCF,"2-[4-(2-fluoroethyl)-2,5-dimethoxyphenyl]ethanamine"
+2C-F,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)F,COC1=CC(=C(C=C1CCN)OC)F,"2-(4-fluoro-2,5-dimethoxyphenyl)ethanamine"
+2C-G,Phenethylamine,CC1=C(C=C(C(=C1C)OC)CCN)OC,CC1=C(C=C(C(=C1C)OC)CCN)OC,"2-(2,5-dimethoxy-3,4-dimethylphenyl)ethanamine"
+2C-H,Phenethylamine,COC1=CC(=C(C=C1)OC)CCN,COC1=CC(=C(C=C1)OC)CCN,"2-(2,5-dimethoxyphenyl)ethanamine"
+2C-iP,Phenethylamine,CC(C)C1=C(C=C(C(=C1)OC)CCN)OC,CC(C)C1=C(C=C(C(=C1)OC)CCN)OC,"2-(2,5-dimethoxy-4-propan-2-ylphenyl)ethanamine"
+2C-N,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)[N+](=O)[O-],COC1=CC(=C(C=C1CCN)OC)[N+](=O)[O-],"2-(2,5-dimethoxy-4-nitrophenyl)ethanamine"
+2C-O-4,Phenethylamine,CC(C)OC1=C(C=C(C(=C1)OC)CCN)OC,CC(C)OC1=C(C=C(C(=C1)OC)CCN)OC,"2-(2,5-dimethoxy-4-propan-2-yloxyphenyl)ethanamine"
+2C-SE,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)[Se]C,COC1=CC(=C(C=C1CCN)OC)[Se]C,"2-(2,5-dimethoxy-4-methylselanylphenyl)ethanamine"
+2C-T,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)SC,COC1=CC(=C(C=C1CCN)OC)SC,"2-(2,5-dimethoxy-4-methylsulfanylphenyl)ethanamine"
+2C-T-8,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)SCC2CC2,COC1=CC(=C(C=C1CCN)OC)SCC2CC2,"2-[4-(cyclopropylmethylsulfanyl)-2,5-dimethoxyphenyl]ethanamine"
+2C-T-9,Phenethylamine,CCCCSC1=C(C=C(C(=C1)OC)CCN)OC,CCCCSC1=C(C=C(C(=C1)OC)CCN)OC,"2-(4-butylsulfanyl-2,5-dimethoxyphenyl)ethanamine"
+2C-T-13,Phenethylamine,COCCSC1=C(C=C(C(=C1)OC)CCN)OC,COCCSC1=C(C=C(C(=C1)OC)CCN)OC,"2-[2,5-dimethoxy-4-(2-methoxyethylsulfanyl)phenyl]ethanamine"
+2C-T-15,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)SC2CC2,COC1=CC(=C(C=C1CCN)OC)SC2CC2,"2-(4-cyclopropylsulfanyl-2,5-dimethoxyphenyl)ethanamine"
+2C-T-16,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)SCC=C,COC1=CC(=C(C=C1CCN)OC)SCC=C,"2-(2,5-dimethoxy-4-prop-2-enylsulfanylphenyl)ethanamine"
+2C-T-17,Phenethylamine,CCC(C)SC1=C(C=C(C(=C1)OC)CCN)OC,CCC(C)SC1=C(C=C(C(=C1)OC)CCN)OC,"2-(4-butan-2-ylsulfanyl-2,5-dimethoxyphenyl)ethanamine"
+2C-T-19,Phenethylamine,CCCCSC1=C(C=C(C(=C1)OC)CCN)OC,CCCCSC1=C(C=C(C(=C1)OC)CCN)OC,"2-(4-butylsulfanyl-2,5-dimethoxyphenyl)ethanamine"
+2C-TFM,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)C(F)(F)F,COC1=CC(=C(C=C1CCN)OC)C(F)(F)F,"2-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]ethanamine"
+2C-YN,Phenethylamine,COC1=CC(=C(C=C1CCN)OC)C#C,COC1=CC(=C(C=C1CCN)OC)C#C,"2-(4-ethynyl-2,5-dimethoxyphenyl)ethanamine"
+BOB,Phenethylamine,CCCCCC(C(CCO)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)O,CCCCC[C@H]([C@H](CCO)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N)O,"(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-[(3S,4R)-1,4-dihydroxynonan-3-yl]sulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid"
+BOHD,Phenethylamine,CC1=CC(=C(C=C1OC)C(CN)O)OC,CC1=CC(=C(C=C1OC)C(CN)O)OC,"2-amino-1-(2,5-dimethoxy-4-methylphenyl)ethanol"
+HOT-2,Phenethylamine,CCSC1=C(C=C(C(=C1)OC)CCNO)OC,CCSC1=C(C=C(C(=C1)OC)CCNO)OC,"N-[2-(4-ethylsulfanyl-2,5-dimethoxyphenyl)ethyl]hydroxylamine"
+HOT-7,Phenethylamine,CCCSC1=C(C=C(C(=C1)OC)CCNO)OC,CCCSC1=C(C=C(C(=C1)OC)CCNO)OC,"N-[2-(2,5-dimethoxy-4-propylsulfanylphenyl)ethyl]hydroxylamine"
+HOT-17,Phenethylamine,CCC(C)SC1=C(C=C(C(=C1)OC)CCNO)OC,CCC(C)SC1=C(C=C(C(=C1)OC)CCNO)OC,"N-[2-(4-butan-2-ylsulfanyl-2,5-dimethoxyphenyl)ethyl]hydroxylamine"
+2CB-Ind,Phenethylamine,COC1=CC(=C(C2=C1C(CC2)CN)OC)Br,COC1=CC(=C(C2=C1C(CC2)CN)OC)Br,"(5-bromo-4,7-dimethoxy-2,3-dihydro-1H-inden-1-yl)methanamine"
+2C-BCB,Phenethylamine,COC1=CC(=C(C2=C1C(C2)CN)OC)Br,COC1=CC(=C(C2=C1[C@@H](C2)CN)OC)Br,"[(7R)-3-bromo-2,5-dimethoxy-7-bicyclo[4.2.0]octa-1(6),2,4-trienyl]methanamine"
+NBOMe-mescaline,Phenethylamine,COC1=CC=CC=C1CNCCC2=CC(=C(C(=C2)OC)OC)OC,COC1=CC=CC=C1CNCCC2=CC(=C(C(=C2)OC)OC)OC,"N-[(2-methoxyphenyl)methyl]-2-(3,4,5-trimethoxyphenyl)ethanamine"
+2C-H-NBOMe,Phenethylamine,COC1=CC(=C(C=C1)OC)CCNCC2=CC=CC=C2OC,COC1=CC(=C(C=C1)OC)CCNCC2=CC=CC=C2OC,"2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-C-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Cl)OC,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Cl)OC,"2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2CBCB-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCC2CC3=C2C(=CC(=C3OC)Br)OC,COC1=CC=CC=C1CNC[C@@H]2CC3=C2C(=CC(=C3OC)Br)OC,"1-[(7R)-3-bromo-2,5-dimethoxy-7-bicyclo[4.2.0]octa-1(6),2,4-trienyl]-N-[(2-methoxyphenyl)methyl]methanamine"
+2CBFly-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCCC2=C3CCOC3=C(C4=C2OCC4)Br,COC1=CC=CC=C1CNCCC2=C3CCOC3=C(C4=C2OCC4)Br,"2-(4-bromo-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-yl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-I-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)I)OC,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)I)OC,"2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-TFM-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)C(F)(F)F)OC,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)C(F)(F)F)OC,"2-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-D-NBOMe,Phenethylamine,CC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC,CC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC,"2-(2,5-dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-G-NBOMe,Phenethylamine,CC1=C(C=C(C(=C1C)OC)CCNCC2=CC=CC=C2OC)OC,CC1=C(C=C(C(=C1C)OC)CCNCC2=CC=CC=C2OC)OC,"2-(2,5-dimethoxy-3,4-dimethylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-E-NBOMe,Phenethylamine,CCC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC,CCC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC,"2-(4-ethyl-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-P-NBOMe,Phenethylamine,CCCC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC,CCCC1=CC(=C(C=C1OC)CCNCC2=CC=CC=C2OC)OC,"2-(2,5-dimethoxy-4-propylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-iP-NBOMe,Phenethylamine,CC(C)C1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC,CC(C)C1=C(C=C(C(=C1)OC)CCNCC2=CC=CC=C2OC)OC,"2-(2,5-dimethoxy-4-propan-2-ylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+2C-N-NBOMe,Phenethylamine,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)[N+](=O)[O-])OC,COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)[N+](=O)[O-])OC,"2-(2,5-dimethoxy-4-nitrophenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+DMBMPP,Phenethylamine,COC1=CC=CC=C1C2CCCC(N2)CC3=CC(=C(C=C3OC)Br)OC,COC1=CC=CC=C1[C@@H]2CCC[C@H](N2)CC3=CC(=C(C=C3OC)Br)OC,"(2S,6S)-2-[(4-bromo-2,5-dimethoxyphenyl)methyl]-6-(2-methoxyphenyl)piperidine"
+2C-B-NBOH,Phenethylamine,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2O)OC)Br,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2O)OC)Br,"2-[[2-(4-bromo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol"
+2C-B-NBF,Phenethylamine,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2F)OC)Br,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2F)OC)Br,"2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine"
+2C-I-NBF,Phenethylamine,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2F)OC)I,COC1=CC(=C(C=C1CCNCC2=CC=CC=C2F)OC)I,"N-[(2-fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine"
+3C-E,Phenethylamine,CCOC1=C(C=C(C=C1OC)CC(C)N)OC,CCOC1=C(C=C(C=C1OC)CC(C)N)OC,"1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine"
+3C-DFE,Phenethylamine,CC(CC1=CC(=C(C(=C1)OC)OCC(F)F)OC)N,CC(CC1=CC(=C(C(=C1)OC)OCC(F)F)OC)N,"1-[4-(2,2-difluoroethoxy)-3,5-dimethoxyphenyl]propan-2-amine"
+3C-BZ,Phenethylamine,CC(CC1=CC(=C(C(=C1)OC)OCC2=CC=CC=C2)OC)N,CC(CC1=CC(=C(C(=C1)OC)OCC2=CC=CC=C2)OC)N,"1-(3,5-dimethoxy-4-phenylmethoxyphenyl)propan-2-amine"
+Meta-DOB,Phenethylamine,CC(CC1=CC(=C(C=C1OC)OC)Br)N,CC(CC1=CC(=C(C=C1OC)OC)Br)N,"1-(5-bromo-2,4-dimethoxyphenyl)propan-2-amine"
+Methyl-DOB,Phenethylamine,CC(CC1=CC(=C(C=C1OC)Br)OC)NC,CC(CC1=CC(=C(C=C1OC)Br)OC)NC,"1-(4-bromo-2,5-dimethoxyphenyl)-N-methylpropan-2-amine"
+DOET,Phenethylamine,CCC1=CC(=C(C=C1OC)CC(C)N)OC.Cl,CCC1=CC(=C(C=C1OC)CC(C)N)OC.Cl,"1-(4-ethyl-2,5-dimethoxyphenyl)propan-2-amine;hydrochloride"
+DOPR,Phenethylamine,CCCC1=CC(=C(C=C1OC)CC(C)N)OC,CCCC1=CC(=C(C=C1OC)CC(C)N)OC,"1-(2,5-dimethoxy-4-propylphenyl)propan-2-amine"
+DOiPR,Phenethylamine,CC(C)C1=C(C=C(C(=C1)OC)CC(C)N)OC,CC(C)C1=C(C=C(C(=C1)OC)CC(C)N)OC,"1-(2,5-dimethoxy-4-propan-2-ylphenyl)propan-2-amine"
+Meta-DOT,Phenethylamine,CC(CC1=CC(=C(C=C1OC)OC)SC)N,CC(CC1=CC(=C(C=C1OC)OC)SC)N,"1-(2,4-dimethoxy-5-methylsulfanylphenyl)propan-2-amine"
+Ortho-DOT,Phenethylamine,CC(CC1=CC(=C(C=C1SC)OC)OC)N,CC(CC1=CC(=C(C=C1SC)OC)OC)N,"1-(4,5-dimethoxy-2-methylsulfanylphenyl)propan-2-amine"
+DOTFM,Phenethylamine,CC(CC1=CC(=C(C=C1OC)C(F)(F)F)OC)N,CC(CC1=CC(=C(C=C1OC)C(F)(F)F)OC)N,"1-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]propan-2-amine"
+DMMDA,Phenethylamine,CC(CC1=CC(=C2C(=C1OC)OCO2)OC)N,CC(CC1=CC(=C2C(=C1OC)OCO2)OC)N,"1-(4,7-dimethoxy-1,3-benzodioxol-5-yl)propan-2-amine"
+"2,5-dimethoxy-3,4-dimethylamphetamine",Phenethylamine,CC1=C(C=C(C(=C1C)OC)CC(C)N)OC,CC1=C(C=C(C(=C1C)OC)CC(C)N)OC,"1-(2,5-dimethoxy-3,4-dimethylphenyl)propan-2-amine"
+"2,N-dimethyl-4,5-methylenedioxyamphetamine",Phenethylamine,CC1=CC2=C(C=C1CC(C)NC)OCO2,CC1=CC2=C(C=C1CC(C)NC)OCO2,"N-methyl-1-(6-methyl-1,3-benzodioxol-5-yl)propan-2-amine"
+TFMFly,Phenethylamine,CC(CC1=C2CCOC2=C(C3=C1OCC3)C(F)(F)F)N,CC(CC1=C2CCOC2=C(C3=C1OCC3)C(F)(F)F)N,"1-[4-(trifluoromethyl)-2,3,6,7-tetrahydrofuro[2,3-f][1]benzofuran-8-yl]propan-2-amine"
+"2-Bromo-4,5-methylenedioxyamphetamine",Phenethylamine,CC(CC1=CC2=C(C=C1Br)OCO2)N,CC(CC1=CC2=C(C=C1Br)OCO2)N,"1-(6-bromo-1,3-benzodioxol-5-yl)propan-2-amine"
+"4-Bromo-3,5-dimethoxyamphetamine",Phenethylamine,CC(CC1=CC(=C(C(=C1)OC)Br)OC)N,CC(CC1=CC(=C(C(=C1)OC)Br)OC)N,"1-(4-bromo-3,5-dimethoxyphenyl)propan-2-amine"
+EEE,Phenethylamine,CCOC1=CC(=C(C=C1CC(C)N)OCC)OCC,CCOC1=CC(=C(C=C1CC(C)N)OCC)OCC,"1-(2,4,5-triethoxyphenyl)propan-2-amine"
+EME,Phenethylamine,CCOC1=CC(=C(C=C1CC(C)N)OCC)OC,CCOC1=CC(=C(C=C1CC(C)N)OCC)OC,"1-(2,5-diethoxy-4-methoxyphenyl)propan-2-amine"
+EMM,Phenethylamine,CCOC1=CC(=C(C=C1CC(C)N)OC)OC,CCOC1=CC(=C(C=C1CC(C)N)OC)OC,"1-(2-ethoxy-4,5-dimethoxyphenyl)propan-2-amine"
+EDMA,Phenethylamine,CC(CC1=CC2=C(C=C1)OCCO2)NC,CC(CC1=CC2=C(C=C1)OCCO2)NC,"1-(2,3-dihydro-1,4-benzodioxin-6-yl)-N-methylpropan-2-amine"
+Ethyl-K,Phenethylamine,CCCC(CC1=CC2=C(C=C1)OCO2)NCC,CCCC(CC1=CC2=C(C=C1)OCO2)NCC,"1-(1,3-benzodioxol-5-yl)-N-ethylpentan-2-amine"
+Methyl-K,Phenethylamine,CCCC(CC1=CC2=C(C=C1)OCO2)NC,CCCC(CC1=CC2=C(C=C1)OCO2)NC,"1-(1,3-benzodioxol-5-yl)-N-methylpentan-2-amine"
+IDNNA,Phenethylamine,CC(CC1=CC(=C(C=C1OC)I)OC)N(C)C,CC(CC1=CC(=C(C=C1OC)I)OC)N(C)C,"1-(4-iodo-2,5-dimethoxyphenyl)-N,N-dimethylpropan-2-amine"
+MDAI,Phenethylamine,C1C(CC2=CC3=C(C=C21)OCO3)N,C1C(CC2=CC3=C(C=C21)OCO3)N,"6,7-dihydro-5H-cyclopenta[f][1,3]benzodioxol-6-amine"
+MDMAI,Phenethylamine,CNC1CC2=CC3=C(C=C2C1)OCO3,CNC1CC2=CC3=C(C=C2C1)OCO3,"N-methyl-6,7-dihydro-5H-cyclopenta[f][1,3]benzodioxol-6-amine"
+MDAT,Phenethylamine,C1CC2=CC3=C(C=C2CC1N)OCO3,C1CC2=CC3=C(C=C2CC1N)OCO3,"5,6,7,8-tetrahydrobenzo[f][1,3]benzodioxol-6-amine"
+MDMAT,Phenethylamine,CNC1CCC2=CC3=C(C=C2C1)OCO3,CNC1CCC2=CC3=C(C=C2C1)OCO3,"N-methyl-5,6,7,8-tetrahydrobenzo[f][1,3]benzodioxol-6-amine"
+MDBZ,Phenethylamine,CC(CC1=CC2=C(C=C1)OCO2)NCC3=CC=CC=C3,CC(CC1=CC2=C(C=C1)OCO2)NCC3=CC=CC=C3,"1-(1,3-benzodioxol-5-yl)-N-benzylpropan-2-amine"
+MDIP,Phenethylamine,CN1C(=CC2=C(C1=O)C(=NO2)C3=CC=CC=C3)C4=CC=CC=C4,CN1C(=CC2=C(C1=O)C(=NO2)C3=CC=CC=C3)C4=CC=CC=C4,"5-methyl-3,6-diphenyl-[1,2]oxazolo[4,5-c]pyridin-4-one"
+MDMEO,Phenethylamine,CC(CC1=CC2=C(C=C1)OCO2)NOC,CC(CC1=CC2=C(C=C1)OCO2)NOC,"1-(1,3-benzodioxol-5-yl)-N-methoxypropan-2-amine"
+MDHOET,Phenethylamine,CC(CC1=CC2=C(C=C1)OCO2)NCCO,CC(CC1=CC2=C(C=C1)OCO2)NCCO,"2-[1-(1,3-benzodioxol-5-yl)propan-2-ylamino]ethanol"
+MDPR,Phenethylamine,CCCNC(C)CC1=CC2=C(C=C1)OCO2.Cl,CCCNC(C)CC1=CC2=C(C=C1)OCO2.Cl,"1-(1,3-benzodioxol-5-yl)-N-propylpropan-2-amine;hydrochloride"
+MEDA,Phenethylamine,CN(C)CCS.Cl,CN(C)CCS.Cl,2-(dimethylamino)ethanethiol;hydrochloride
+Methyl-DMA,Phenethylamine,CC(CC1=C(C=CC(=C1)OC)OC)NC,CC(CC1=C(C=CC(=C1)OC)OC)NC,"1-(2,5-dimethoxyphenyl)-N-methylpropan-2-amine"
+MMDA,Phenethylamine,CC(CC1=CC2=C(C(=C1)OC)OCO2)N,CC(CC1=CC2=C(C(=C1)OC)OCO2)N,"1-(7-methoxy-1,3-benzodioxol-5-yl)propan-2-amine"
+MMDA-2,Phenethylamine,CC(CC1=CC2=C(C=C1OC)OCO2)N,CC(CC1=CC2=C(C=C1OC)OCO2)N,"1-(6-methoxy-1,3-benzodioxol-5-yl)propan-2-amine"
+5-Methyl-MDA,Phenethylamine,CC1=CC(=CC2=C1OCO2)CC(C)N,CC1=CC(=CC2=C1OCO2)CC(C)N,"1-(7-methyl-1,3-benzodioxol-5-yl)propan-2-amine"
+DiFMDA,Phenethylamine,CC(CC1=CC2=C(C=C1)OC(O2)(F)F)N,CC(CC1=CC2=C(C=C1)OC(O2)(F)F)N,"1-(2,2-difluoro-1,3-benzodioxol-5-yl)propan-2-amine"
+5-APB,Phenethylamine,CC(CC1=CC2=C(C=C1)OC=C2)N,CC(CC1=CC2=C(C=C1)OC=C2)N,1-(1-benzofuran-5-yl)propan-2-amine
+6-APB,Phenethylamine,CC(CC1=CC2=C(C=C1)C=CO2)N,CC(CC1=CC2=C(C=C1)C=CO2)N,1-(1-benzofuran-6-yl)propan-2-amine
+5-APDB,Phenethylamine,CC(CC1=CC2=C(C=C1)OCC2)N,CC(CC1=CC2=C(C=C1)OCC2)N,"1-(2,3-dihydro-1-benzofuran-5-yl)propan-2-amine"
+6-APDB,Phenethylamine,CC(CC1=CC2=C(CCO2)C=C1)N,CC(CC1=CC2=C(CCO2)C=C1)N,"1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine"
+5-MAPB,Phenethylamine,CC(CC1=CC2=C(C=C1)OC=C2)NC,CC(CC1=CC2=C(C=C1)OC=C2)NC,1-(1-benzofuran-5-yl)-N-methylpropan-2-amine
+6-MAPDB,Phenethylamine,CC(CC1=CC2=C(CCO2)C=C1)NC,CC(CC1=CC2=C(CCO2)C=C1)NC,"1-(2,3-dihydro-1-benzofuran-6-yl)-N-methylpropan-2-amine"
+6-MAPB,Phenethylamine,CC(CC1=CC2=C(C=C1)OC=C2)NC,CC(CC1=CC2=C(C=C1)OC=C2)NC,1-(1-benzofuran-5-yl)-N-methylpropan-2-amine
+5-EAPB,Phenethylamine,CCNC(C)CC1=CC2=C(C=C1)OC=C2,CCNC(C)CC1=CC2=C(C=C1)OC=C2,1-(1-benzofuran-5-yl)-N-ethylpropan-2-amine
+Para-Methoxyamphetamine,Phenethylamine,CC(CC1=CC=C(C=C1)OC)N,CC(CC1=CC=C(C=C1)OC)N,1-(4-methoxyphenyl)propan-2-amine
+4-Ethylamphetamine,Phenethylamine,CCC1=CC=C(C=C1)CC(C)N,CCC1=CC=C(C=C1)CC(C)N,1-(4-ethylphenyl)propan-2-amine
+3-Methoxy-4-methylamphetamine,Phenethylamine,CC1=C(C=C(C=C1)CC(C)N)OC,CC1=C(C=C(C=C1)CC(C)N)OC,1-(3-methoxy-4-methylphenyl)propan-2-amine
+4-Methylmethamphetamine,Phenethylamine,CC1=CC=C(C=C1)CC(C)NC,CC1=CC=C(C=C1)CC(C)NC,N-methyl-1-(4-methylphenyl)propan-2-amine
+4-Methylthioamphetamine,Phenethylamine,CC(CC1=CC=C(C=C1)SC)N,CC(CC1=CC=C(C=C1)SC)N,1-(4-methylsulfanylphenyl)propan-2-amine
+4-Fluoroamphetamine,Phenethylamine,CC(CC1=CC=C(C=C1)F)N,CC(CC1=CC=C(C=C1)F)N,1-(4-fluorophenyl)propan-2-amine
+Norfenfluramine,Phenethylamine,CC(CC1=CC(=CC=C1)C(F)(F)F)N,CC(CC1=CC(=CC=C1)C(F)(F)F)N,1-[3-(trifluoromethyl)phenyl]propan-2-amine
+Para-Iodoamphetamine,Phenethylamine,CC(CC1=CC=C(C=C1)I)N,CC(CC1=CC=C(C=C1)I)N,1-(4-iodophenyl)propan-2-amine
+Para-Chloroamphetamine,Phenethylamine,CC(CC1=CC=C(C=C1)Cl)N,CC(CC1=CC=C(C=C1)Cl)N,1-(4-chlorophenyl)propan-2-amine
+Efavirenz,Benzoxazine,C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F,C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F,"(4S)-6-chloro-4-(2-cyclopropylethynyl)-4-(trifluoromethyl)-1H-3,1-benzoxazin-2-one"

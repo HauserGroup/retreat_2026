@@ -9,11 +9,14 @@ dependencies = [
     "matplotlib>=3.10.8",
     "numpy>=2.4.4",
     "pandas>=3.0.2",
-    "pre-commit>=4.5.1",
     "scikit-learn>=1.8.0",
 ]
 
 [dependency-groups]
 dev = [
     "nbstripout>=0.9.1",
+    "pre-commit>=4.5.1",
+]
+rdkit = [
+    "rdkit>=2026.3.1",
 ]
