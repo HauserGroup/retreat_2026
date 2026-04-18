@@ -208,3 +208,6 @@ __marimo__/
 
 # notebooks
 notebooks/make_data*
+
+# scratch
+scratch/
