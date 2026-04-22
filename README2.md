@@ -19,7 +19,7 @@
 - 🦜 Olav
 - 🚢 Alexander (Small)
 - ⚔️ Nefeli
-- 🔭 Irem
+- 🔭 Csenge
 - 💀 Matteo
 
 ### 📜 Rules of Engagement
