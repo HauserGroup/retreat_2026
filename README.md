@@ -34,9 +34,12 @@ pip install -e .
 
   - 🫍 Gaussian Processes
     - massively underrated for small non-linear data with uncertainty
+
  - 🦭 Non-negative Matrix Factorization (NMF)
     - hugely useful when data is nonnegative and additive especially compared to PCA
+
  - 🦦 Isotonic Regression
     - Data only go up but difficult to fit
+
  - 🐻‍❄️ GaussianMixture
    - Probability clustering with highly interpretable generative view of data
