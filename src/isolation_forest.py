@@ -1,1 +1,1 @@
-print("i dont know what isolation forest is :)")
+print("i dont know what isolation forest isss :)")
