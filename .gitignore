@@ -211,3 +211,5 @@ notebooks/make_data*
 
 # scratch
 scratch/
+
+data/
