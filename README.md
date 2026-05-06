@@ -1,4 +1,4 @@
-# retreat_2026 
+# retreat_2026
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -43,6 +43,3 @@ pip install -e .
 
  - 🐻‍❄️ GaussianMixture
    - Probability clustering with highly interpretable generative view of data
-
-vote for incompetence-we are just misdirected
-
