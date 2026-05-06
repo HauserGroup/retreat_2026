@@ -23,3 +23,8 @@ def isolation_forest_plot(labels = "lonely", estimates = [0.5], lower_ci = [0.2]
 
 
 isolation_forest_plot()
+
+print("i dont know what isolation forest isss :)")
+
+
+print("hello")
